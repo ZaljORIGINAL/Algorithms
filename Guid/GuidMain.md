@@ -7,11 +7,10 @@
 Здесь нужно последовательно сравнивать значения соседних элементов и менять
 числа местами, если предыдущее оказывается больше последующего. Таким образом
 элементы с большими значениями оказываются в конце списка, а с меньшими
-остаются в начале.
+остаются в начале. 
 
-![Sorting_bubblesort_anim.gif](images/Sorting_bubblesort_anim.gif)
-
-![img.png](images/bubblesort.png)
+![img.png](images/BubbleSort_complexity.png)
+![Sorting_bubblesort_anim.gif](images/bubbleSort_anim.gif)
 
 ### Сортировка перемешиванием (шейкерная сортировка) - Shaker Sort
 
