@@ -6,8 +6,8 @@ import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ShakerSortTest {
-    private static final Sort sort = new ShakerSort();
+class CombSortTest {
+    private static final Sort sort = new CombSort();
 
     @Test
     void sort1() {
