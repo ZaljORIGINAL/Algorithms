@@ -13,6 +13,12 @@
 ![Sorting_bubblesort_anim.gif](images/bubbleSort_anim.gif)
 
 ### Сортировка перемешиванием (шейкерная сортировка) - Shaker Sort
+Шейкерная сортировка отличается от пузырьковой тем, что она двунаправленная: 
+алгоритм перемещается не строго слева направо, а сначала слева направо, затем
+справа налево.
+
+![img.png](images/ShakerSort_complexity.png)
+![ShakerSort_anim.gif](images/ShakerSort_anim.gif)
 
 ### Сортировка расчёской
 
