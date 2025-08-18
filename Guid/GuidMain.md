@@ -10,6 +10,7 @@
 остаются в начале. 
 
 ![img.png](images/BubbleSort_complexity.png)
+
 ![Sorting_bubblesort_anim.gif](images/bubbleSort_anim.gif)
 
 ### Сортировка перемешиванием (шейкерная сортировка) - Shaker Sort
@@ -18,6 +19,7 @@
 справа налево.
 
 ![img.png](images/ShakerSort_complexity.png)
+
 ![ShakerSort_anim.gif](images/ShakerSort_anim.gif)
 
 ### Сортировка расчёской
@@ -35,6 +37,7 @@
 уменьшения — и так до окончания работы алгоритма.
 
 ![img.png](images/CombSort_complexity.png)
+
 ![184_5_bd5ab42310_1c45fb1225.gif](images/CombSort_anim.gif)
 
 ### Сортировка вставками - Insertion Sort
@@ -49,9 +52,19 @@
 этого элемента с номером 0 мы будем вставлять все остальные
 
 ![img.png](images/InsertionSort_complexity.png)
+
 ![InsertionSort_anim.gif](images/InsertionSort_anim.gif)
 
 ### Сортировка выбором - Selection Sort
+
+Сначала нужно рассмотреть подмножество массива и найти в нём максимум (или минимум).
+Затем выбранное значение меняют местами со значением первого неотсортированного 
+элемента. Этот шаг нужно повторять до тех пор, пока в массиве не закончатся 
+неотсортированные подмассивы.
+
+![img.png](images/SelectionSort_complexity.png)
+
+![SelectionSort_anim.gif](images/SelectionSort_anim.gif)
 
 ### Пирамидальная сортировка - Heap Sort
 
