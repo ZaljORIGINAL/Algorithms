@@ -98,7 +98,7 @@
 
 ## Источники
 
-* (Яндекс образование) Основные виды сортировок и примеры их реализации (https://education.yandex.ru/journal/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
+* (Яндекс образование) [Основные виды сортировок и примеры их реализации](https://education.yandex.ru/journal/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
 * (Книга) Грокаем Алгоритмы - Адитья Бхаргава
 * (Хабр) [Основные виды сортировок и примеры их реализации](https://education.yandex.ru/journal/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
-* (Статья) [Пирамидальная сортировка] (https://prog-cpp.ru/sort-pyramid/)
+* (Статья) [Пирамидальная сортировка](https://prog-cpp.ru/sort-pyramid/)
