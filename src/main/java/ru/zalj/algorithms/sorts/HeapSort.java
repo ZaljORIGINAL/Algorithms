@@ -1,6 +1,4 @@
-package ru.zalj;
-
-import java.util.Arrays;
+package ru.zalj.algorithms.sorts;
 
 public class HeapSort implements Sort {
 

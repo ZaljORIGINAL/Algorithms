@@ -1,13 +1,11 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class ShakerSortTest {
-    private static final Sort sort = new ShakerSort();
+class SelectionSortTest {
+    private static final Sort sort = new SelectionSort();
 
     @Test
     void sort1() {
@@ -19,5 +17,4 @@ class ShakerSortTest {
         }
         System.out.println(Arrays.toString(result));
     }
-
 }

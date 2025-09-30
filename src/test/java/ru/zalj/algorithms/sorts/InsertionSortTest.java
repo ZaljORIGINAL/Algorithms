@@ -1,13 +1,11 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class BubbleSortTest {
-    private static final Sort sort = new BubbleSort();
+class InsertionSortTest {
+    private static final Sort sort = new InsertionSort();
 
     @Test
     void sort1() {
@@ -19,5 +17,4 @@ class BubbleSortTest {
         }
         System.out.println(Arrays.toString(result));
     }
-
 }

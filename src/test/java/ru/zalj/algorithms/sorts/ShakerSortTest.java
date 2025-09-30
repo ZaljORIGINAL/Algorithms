@@ -1,11 +1,11 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-class HeapSortTest {
-    private static final Sort sort = new HeapSort();
+class ShakerSortTest {
+    private static final Sort sort = new ShakerSort();
 
     @Test
     void sort1() {

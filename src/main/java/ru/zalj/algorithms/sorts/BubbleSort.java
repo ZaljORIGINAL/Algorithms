@@ -1,4 +1,4 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 public class BubbleSort implements Sort {
     @Override

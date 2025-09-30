@@ -1,13 +1,11 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class MergeSortTest {
-    private static final Sort sort = new MergeSort();
+class QuickSortTest {
+    private static final Sort sort = new QuickSort();
 
     @Test
     void sort1() {

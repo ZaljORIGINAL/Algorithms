@@ -1,13 +1,11 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class CombSortTest {
-    private static final Sort sort = new CombSort();
+class MergeSortTest {
+    private static final Sort sort = new MergeSort();
 
     @Test
     void sort1() {
@@ -19,5 +17,4 @@ class CombSortTest {
         }
         System.out.println(Arrays.toString(result));
     }
-
 }

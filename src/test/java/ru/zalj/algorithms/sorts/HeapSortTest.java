@@ -1,13 +1,11 @@
-package ru.zalj;
+package ru.zalj.algorithms.sorts;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class SelectionSortTest {
-    private static final Sort sort = new SelectionSort();
+class HeapSortTest {
+    private static final Sort sort = new HeapSort();
 
     @Test
     void sort1() {
@@ -19,5 +17,4 @@ class SelectionSortTest {
         }
         System.out.println(Arrays.toString(result));
     }
-
 }
