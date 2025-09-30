@@ -1,5 +1,8 @@
 package ru.zalj.algorithms.sorts;
 
+/**
+ * Пирамидальная сортировка - Heap Sort
+ */
 public class HeapSort implements Sort {
 
     @Override

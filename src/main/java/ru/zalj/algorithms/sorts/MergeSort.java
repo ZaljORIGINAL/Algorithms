@@ -1,5 +1,8 @@
 package ru.zalj.algorithms.sorts;
 
+/**
+ * Сортировка слиянием - Merge Sort
+ */
 public class MergeSort implements Sort {
     @Override
     public int[] sort(int[] array) {
