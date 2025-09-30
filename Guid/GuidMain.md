@@ -96,9 +96,19 @@
 
 ### Сортировка слиянием - Merge Sort
 
+Сортировка слиянием пригодится для таких структур данных, в которых доступ к 
+элементам осуществляется последовательно (например, для потоков). Упоминаемый
+в связке с Quick Sort. Он также использует подход «разделяй и властвуй». Алгоритм
+делит массив на две части, рекурсивно сортирует каждую из них, а затем объединяет
+их в один отсортированный массив.
+
+![img.png](images/MergeSort_complexity.png)
+
+![MergeSort_anim.gif](images/MergeSort_anim.gif)
+
 ## Источники
 
 * (Яндекс образование) [Основные виды сортировок и примеры их реализации](https://education.yandex.ru/journal/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
 * (Книга) Грокаем Алгоритмы - Адитья Бхаргава
-* (Хабр) [Основные виды сортировок и примеры их реализации](https://education.yandex.ru/journal/osnovnye-vidy-sortirovok-i-primery-ikh-realizatsii)
+* (Хабр) [Это база. Алгоритмы сортировки для начинающих](https://habr.com/ru/companies/selectel/articles/851206/#5)
 * (Статья) [Пирамидальная сортировка](https://prog-cpp.ru/sort-pyramid/)
